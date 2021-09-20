@@ -1,2 +1,14 @@
-# Build RESTful API - my book collection
-The book collection API allows users to view a list of book, enter new books, and edit existing books.
+---
+tags: week6 express api rest-api
+---
+
+# REST API
+
+## Overview
+This project is a REST API to manage books with Node.js and Express.
+
+## Features implemented
+- View a list of books
+- Add new books
+- Delete books
+- Edit existing books
